@@ -13,7 +13,7 @@
 --- | --- | --- |
 [All For One](https://github.com/tryber/sd-06-mysql-all-for-one/pull/48) | [Vocabulary Booster](https://github.com/tryber/sd-06-mysql-vocabulary-booster/pull/59) | [One For All](https://github.com/tryber/sd-06-mysql-one-for-all/pull/51)
 [Dataflights](https://github.com/tryber/sd-06-mongodb-dataflights/pull/17) | [Commerce](https://github.com/tryber/sd-06-mongodb-commerce/pull/60) | [Aggregations](https://github.com/tryber/sd-06-mongodb-aggregations/pull/89)
-[Crush Manager](https://github.com/tryber/sd-06-crush-manager/pull/63) | [Store Manager](https://github.com/tryber/sd-06-store-manager/pull/51) | [cookmaster](https://github.com/tryber/sd-06-cookmaster/pull/36)
+[Crush Manager](https://github.com/tryber/sd-06-crush-manager/pull/63) | [Store Manager](https://github.com/tryber/sd-06-store-manager/pull/51) | [Cookmaster](https://github.com/tryber/sd-06-cookmaster/pull/36)
 [Stranger Things](https://github.com/tryber/sd-06-stranger-things-frontend/pull/53)
 
 | | CS Projects | |
@@ -21,36 +21,3 @@
 [Blogs Api](https://github.com/tryber/sd-06-project-blogs-api/pull/64) | [Webchat](https://github.com/tryber/sd-06-project-webchat/pull/61) | [Tech News](https://github.com/tryber/sd-06-tech-news/pull/13)
 [Inventory Report](https://github.com/tryber/sd-06-inventory-report/pull/47) | [Algorithms](https://github.com/tryber/sd-06-project-algorithms/pull/19) | [Restaurant Orders](https://github.com/tryber/sd-06-restaurant-orders/pull/31)
 [Ting](https://github.com/tryber/sd-06-project-ting/pull/54)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
